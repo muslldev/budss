@@ -1,0 +1,7 @@
+.big_card {
+  flex: 50%;
+}
+
+.small_card {
+  flex: 36%;
+}

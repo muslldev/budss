@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap");
+
+:root {
+  --primary-color: white;
+}
+
+body {
+  font-family: "Outfit", sans-serif;
+  font-weight: 400;
+  background: #181818;
+  color: white;
+}
+
+button {
+  border: none;
+  background: none;
+  cursor: pointer;
+  color: white;
+  font-family: "Outfit", sans-serif;
+}
+
+.custom-btn {
+  background: #954ced;
+  border-radius: 1rem;
+  font-weight: 600;
+  font-size: 1.25rem;
+  width: 11.375rem;
+  height: 3.5625rem;
+}
